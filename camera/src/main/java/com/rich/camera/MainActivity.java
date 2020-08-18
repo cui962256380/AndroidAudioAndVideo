@@ -354,6 +354,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             mImagerReader = null;
         }
 
+
     }
 
     private void picture() {

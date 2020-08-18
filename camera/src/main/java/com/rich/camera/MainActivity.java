@@ -336,6 +336,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             initCamera2(false);
         }
 
+
         openCamera2();
     }
 
